@@ -4,7 +4,7 @@ a python script to download open-access books from Springer
 
 the news "Springer open access resources to assist with the COVID-19 pandemic" see [link](https://www.springernature.com/gp/librarians/landing/covid19-library-resources)
 
-灵感来自于代码仓库[github-danielw2904/SpringerQuarantineBooks.jl](https://github.com/danielw2904/SpringerQuarantineBooks.jl)，我想借助Python丰富的生态环境，应该也可以实现这一功能
+灵感来自于代码仓库[github-danielw2904/SpringerQuarantineBooks.jl](https://github.com/danielw2904/SpringerQuarantineBooks.jl)，我想借助Python丰富的生态环境应该也可以实现这一功能
 
 ## quickstart
 
@@ -60,7 +60,7 @@ Why README.md not all in English?
 
 下载抛错该如何处理？
 
-> 大多数情况下重新运行即可，实在不能解决可以提个issue，虽然大概率我也不懂（个人的计算机网络知识依旧非常贫瘠┑(￣Д ￣)┍
+> 大多数情况下重新运行即可，实在不能解决可以提个issue，虽然大概率我也不懂┑(￣Д ￣)┍
 
 为什么不提供python2支持？
 
